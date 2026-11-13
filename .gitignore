@@ -1,0 +1,6 @@
+# local safety copies made while iterating
+backup/
+dist/
+*.zip
+.DS_Store
+Thumbs.db
